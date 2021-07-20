@@ -1,0 +1,3 @@
+This project is altered by "thesoda.dev" and was originally
+developed by devkitpro project.
+Original repo: https://github.com/devkitPro/devkitarm-crtls
