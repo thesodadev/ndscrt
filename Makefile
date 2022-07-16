@@ -31,7 +31,7 @@ clean:
 
 PREFIX ?= /usr/lib
 
-DEPENDS = arm9_crt0.o arm9.ld arm9.mem arm9.specs \
+DEPENDS = arm9_crt0.o arm9.ld arm9.mem arm9.specs dsi_arm9.specs dsi_arm9.mem \
 		  arm7_crt0.o arm7.ld arm7.specs \
 		  arm7_iwram.ld arm7_iwram.specs \
 		  arm7_vram.ld arm7_vram.specs
